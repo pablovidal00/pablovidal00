@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pablovidal00
-- 👀 I’m interested in statistics, math and programming.
+- 👀 I’m interested in statistics and programming.
 - 🌱 I’m currently learning R and Python, and I have some experience with Java. 
-- 💞️ I’m looking to collaborate on, well, anything I could be useful for. 
 - 📫 How to reach me: pablovidalfdez00@gmail.com
 
 <!---
